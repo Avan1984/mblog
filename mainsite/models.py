@@ -1,7 +1,8 @@
+# -*- coding:utf-8 -*-
+#主要负责定义要存取的数据模型
+
 from __future__ import unicode_literals
-
 from django.db import models
-
 from django.utils import timezone
 # Create your models here.
 
